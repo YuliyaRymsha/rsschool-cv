@@ -25,10 +25,12 @@ I dream of becoming a highly professional engineer, creating a lot of new and us
 
 ### Code Example
 
+```javascript
 function multiply (a, b) {  
   return a * b  
 };  
-multiply(3, 5);  
+multiply(3, 5); 
+```
 
 ### Experience  
 Frontend Developer (Internship) in ZBORKA Labs 
